@@ -1,6 +1,6 @@
-package com.example.ecosim.engine;
+package com.example.ecosim;
 
-import com.example.ecosim.model.*;
+import com.example.ecosim;
 import java.util.*;
 import java.util.stream.*;
 

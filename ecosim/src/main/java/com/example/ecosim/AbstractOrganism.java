@@ -1,4 +1,4 @@
-package com.example.ecosim.model;
+package com.example.ecosim;
 
 import javafx.geometry.Point2D;
 

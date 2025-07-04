@@ -1,4 +1,4 @@
-package com.example.ecosim.engine;
+package com.example.ecosim;
 
 import javafx.animation.*;
 import javafx.util.Duration;

@@ -1,4 +1,4 @@
-package com.example.ecosim.gui;
+package com.example.ecosim;
 
 import com.example.ecosim.engine.SimulationEngine;
 import javafx.application.Application;

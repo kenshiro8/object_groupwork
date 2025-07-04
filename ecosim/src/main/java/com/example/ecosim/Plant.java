@@ -1,4 +1,4 @@
-package com.example.ecosim.model;
+package com.example.ecosim;
 
 public class Plant extends AbstractOrganism {
     private double growthRate;
